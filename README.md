@@ -1,76 +1,73 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png.png" width="100%" />
 </p>
-# ¡Hola! Soy Alejandro Rodríguez 👋
----
 
-## 🛠️ Tecnologías y herramientas
+<h1 align="center">Hola, soy Alejandro Rodríguez 👋</h1>
+<h3 align="center">💻 DAM Student | 🚀 Future Software Developer | 🇪🇸 Granada</h3>
 
-**Lenguajes y tecnologías**
-
-`Python` `Java` `SQL` `HTML` `CSS` `Git` `GitHub`
-
-**Aprendiendo actualmente**
-
-`Desarrollo de Aplicaciones` `Bases de Datos` `Buenas prácticas de programación`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexPeliDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPeliDev&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 📚 Formación
+## 🚀 Sobre mí
 
-- Bachillerato
-- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma *(en curso)*
-- Certificado B1 de Inglés
-- Curso de Programación en Python
-
----
-
-## 💼 Experiencia
-
-**Experiencia en campamentos municipales**
-
-Esta experiencia me ayudó a desarrollar habilidades como:
-- Trabajo en equipo
-- Responsabilidad
-- Comunicación
-- Organización
+🎓 Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
+💡 Apasionado por la **programación, bases de datos, IA y desarrollo de software**
+📚 Aprendiendo cada día sobre **Python, Java, SQL y buenas prácticas**
+🎯 Objetivo: convertirme en un desarrollador top y construir proyectos útiles y visuales
 
 ---
 
-## 🌱 Objetivos
+## 🎨 Tech Stack
 
-- Seguir mejorando como programador
-- Construir proyectos útiles y bien estructurados
-- Aprender nuevas tecnologías
-- Crear un perfil profesional sólido en GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos Destacados
 
-Aquí irán algunos de mis proyectos más importantes:
+<div align="center">
 
-- 🔹 **Proyecto 1** – Breve descripción de lo que hace
-- 🔹 **Proyecto 2** – Breve descripción de lo que hace
-- 🔹 **Proyecto 3** – Breve descripción de lo que hace
+| 🚀 Proyecto            | 📖 Descripción                                      |
+| ---------------------- | --------------------------------------------------- |
+| ⚽ Liga de fútbol IA    | Base de datos limpia y visual de una liga inventada |
+| 🧠 Automatizaciones IA | Scripts y herramientas con Python                   |
+| 💻 Apps DAM            | Proyectos de clase bien estructurados               |
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexPeliDev&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🌱 Actualmente
+
+* 🔥 Mejorando lógica de programación
+* ⚡ Creando proyectos para GitHub
+* 🗄️ Aprendiendo bases de datos SQL
+* 🤖 Explorando IA aplicada a proyectos
 
 ---
 
 ## 📫 Contacto
 
-- 📍 Granada, España
-- 📧 ar25746@gmail.com
+<p align="center">
+  📍 Granada, España • 📧 ar25746@gmail.com
+</p>
 
 ---
 
-## ⚡ Frase personal
-
-> "Siempre aprendiendo, siempre mejorando."
-
----
-
-<div align="center">
-
-Gracias por visitar mi perfil ⭐
-
-</div>
+<p align="center">
+  ✨ <b>Siempre aprendiendo, siempre mejorando.</b> ✨
+</p>
